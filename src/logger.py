@@ -16,3 +16,4 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
+logging.info("Logger is working")
